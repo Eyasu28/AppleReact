@@ -1,5 +1,7 @@
 import React from 'react';
 import arcade from '../images/icons/arcade.png'
+import './AppleCard.css'
+
 
 function AppleCard() {
   return (<div>

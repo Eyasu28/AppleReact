@@ -1,6 +1,8 @@
 import React from 'react';
 import img from '../images/icons/16.png'
 
+import './Footer.css'
+
 function Footer() {
   return ( <div>
       <footer className="footer-wrapper">

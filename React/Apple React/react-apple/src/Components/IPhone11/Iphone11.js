@@ -1,5 +1,7 @@
 import React from 'react';
 
+import './IPhone11.css'
+
 function Iphone11() {
   return (<div>
       <section className="fourth-heghlight-wrapper">

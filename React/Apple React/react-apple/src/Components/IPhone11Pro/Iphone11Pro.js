@@ -1,5 +1,7 @@
 import React from 'react';
 
+import './IPhone11Pro.css'
+
 function Iphone11Pro() {
   return (<div>
       <section className="third-hightlight-wrapper">

@@ -3,6 +3,7 @@ import appleTv from '../images/icons/apple-tv-logo.png'
 import banker from '../images/home/banker.png'
 import watch from '../images/icons/watch-series5-logo.png'
 
+import './AppleTv.css'
 
 function AppleTv() {
   return (<div>

@@ -1,5 +1,7 @@
 import React from 'react';
 
+import './MacBookAir.css'
+
 function MacBookAir() {
   return (<div>
       <section className="second-hightlight-wrapper">

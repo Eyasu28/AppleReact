@@ -3,8 +3,8 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
-import './Components/css/styles.css'
 import './Components/css/bootstrap.css'
+import './Components/css/styles.css'
 
 
 ReactDOM.render(

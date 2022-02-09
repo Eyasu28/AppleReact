@@ -1,5 +1,7 @@
 import React from 'react';
 
+import './IPadPro.css'
+
 function IpadPro() {
   return (<div>
       <section className="first-hightlight-wrapper">

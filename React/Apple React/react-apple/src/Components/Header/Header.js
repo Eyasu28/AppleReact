@@ -2,6 +2,7 @@ import React from 'react';
 import logo from '../images/icons/logo-sm.png'
 import search from '../images/icons/search-icon-sm.png'
 import cart from '../images/icons/cart-sm.png'
+import './Header.css'
 
 function Header() {
   return (<div> 
